@@ -1,0 +1,14 @@
+# IDE files
+.vscode/
+
+# Compiled files - all platforms
+*.exe
+*.out
+*.app
+*.o
+
+# Ignore file output
+/**/*/
+!/**/*.cpp
+!/**/*.md
+!/**/*.txt
